@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/caturanchristian-dotcom/nodejs-render-aiven-lab/issues"
   },
-  "homepage": "https://github.com/caturanchristian-dotcom/nodejs-render-aiven-lab#readme"
+  "homepage": "https://github.com/caturanchristian-dotcom/nodejs-render-aiven-lab#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.22.0"
+  }
 }
